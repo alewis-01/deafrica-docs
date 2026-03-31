@@ -179,7 +179,16 @@ Vegetation
 
        :doc:`More <NDVI_Climatology_specs>`
 
-    .. container:: product-item
+Elevation and topography
+^^^^^^^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :caption: Elevation and topography
+   :hidden:
+   :maxdepth: 1
+
+   SRTM_DEM_specs
+
+.. container:: product-item
 
        .. image:: ../_static/data_specs/SRTM_DEM_thumbnail.png
 
@@ -256,7 +265,6 @@ Elevation and topography
    :maxdepth: 1
 
    COP_DEM_specs
-   SRTM_DEM_specs
 
 
 .. container:: product-list
