@@ -190,7 +190,9 @@ Elevation and topography
 
    SRTM_DEM_specs
 
-.. container:: product-item
+.. container:: product-list
+
+    .. container:: product-item
 
        .. image:: ../_static/data_specs/SRTM_DEM_thumbnail.png
 
