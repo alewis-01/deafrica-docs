@@ -179,6 +179,19 @@ Vegetation
 
        :doc:`More <NDVI_Climatology_specs>`
 
+
+Elevation and topography
+^^^^^^^^^^^^^^^^^^^^^^^^
+.. toctree::
+   :caption: Elevation and topography
+   :hidden:
+   :maxdepth: 1
+
+
+   SRTM_DEM_specs
+
+.. container:: product-list
+
     .. container:: product-item
 
        .. image:: ../_static/data_specs/SRTM_DEM_thumbnail.png
@@ -236,7 +249,8 @@ Agriculture
         Blue ET measures water use from irrigation, while Green ET captures rainfall-driven evapotranspiration—both are key for sustainable water management.
 
         :doc:`More <DIWASA_Blue_and_Green_ET_specs>`
-     .. container:: product-item
+    
+    .. container:: product-item
         
         .. image:: ../_static/data_specs/WorldCereal_thumbnail.png
 
@@ -256,7 +270,6 @@ Elevation and topography
    :maxdepth: 1
 
    COP_DEM_specs
-   SRTM_DEM_specs
 
 
 .. container:: product-list
